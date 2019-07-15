@@ -1,0 +1,1 @@
+sirve de ejemplo para hacer pull en dos pasos, mediante los comandos fech y merge y la rama oculta origin/master
